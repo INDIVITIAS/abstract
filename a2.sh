@@ -183,7 +183,7 @@ stop_mainnet() {
 }
 
 # ----------------------------
-# Остановка Testnet
+# Остановка Testnet с
 # ----------------------------
 stop_testnet() {
     echo -e "${STOP} Остановка Abstract Testnet...${RESET}"
